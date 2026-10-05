@@ -1,0 +1,7 @@
+.venv/
+.dbt-profile/
+tuva-core/
+*.duckdb
+*.duckdb.wal
+logs/
+target/
